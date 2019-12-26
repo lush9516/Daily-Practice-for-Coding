@@ -1,6 +1,6 @@
-# Project Title
+# Python codes for implementing SQL queries
 
-One Paragraph of project description goes here
+This is the practice for rewriting SQL queries in Python using packages `pandas` and `numpy`.
 
 ## Getting Started
 
