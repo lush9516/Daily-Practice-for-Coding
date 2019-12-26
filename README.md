@@ -12,6 +12,7 @@ This is a list of all the practice:
 ### Prerequisites
 
 For Data Manipulation, `pandas` and `numpy` packages are required.
+
 For Data Visualization, `matplotlib.pyplot` and `seaborn` packages are required.
 
 #### Install packages
@@ -34,6 +35,6 @@ import seaborn
 
 ## Authors
 
-**Han(Shuhan) Lu** - *Initial work* - [Github page](https://github.com/lush9516)
+**Han(Shuhan) Lu** - *Initial work* - [LinkedIn page](https://www.linkedin.com/in/shuhan-lu/)
 
 
