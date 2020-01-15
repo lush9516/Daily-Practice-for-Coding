@@ -1,6 +1,7 @@
 # Python codes for implementing SQL queries
 
 This is the practice for rewriting SQL queries in Python using packages `pandas` and `numpy`.
+
 Here is the blog explaining this implementation.
 
 ## Getting Started
