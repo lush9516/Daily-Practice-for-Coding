@@ -1,14 +1,12 @@
-# Python codes for implementing SQL queries
+# Pandas & Numpy practice
 
-This is the practice for rewriting SQL queries in Python using packages `pandas` and `numpy`.
-
-Here is the blog explaining this implementation.
+These are my practice on `pandas` and `numpy` packages, which are both very important packages when it comes to data manipulation and data analysis.
 
 ## Getting Started
 
 ### Prerequisites
 
-For this practice, `pandas`, `numpy` and `sqlite3` packages are required.
+For this practice, `pandas`, `numpy` packages are required.
 
 #### Install packages
 
@@ -20,12 +18,9 @@ After installing anaconda, you can easily install python packages in terminal.
 conda install package_name
 ```
 ### General Guide
-First, you can run the codes in "DataBase query" to create the database.
-
-The "database_relationship" picture can show the relationship between different databases.
-
-After creating the database, you can run the codes in "Python code for SQL queries" to practice implementing SQL queries in Python.
-
+The followings are descriptions of the several practices that I have done:
+* "101 pandas practice" is my practice and solutions for [101 Pandas Exercises] (https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
+ 
 ## Authors
 
 **Han(Shuhan) Lu** - *Initial work* - [LinkedIn page](https://www.linkedin.com/in/shuhan-lu/)
