@@ -23,6 +23,6 @@ The followings are descriptions of the several practices that I have done:
  
 ## Authors
 
-**Han(Shuhan) Lu** - *Initial work* - [LinkedIn page](https://www.linkedin.com/in/shuhan-lu/)
+**Han(Shuhan) Lu** - *Initial work* - [LinkedIn page](https://www.linkedin.com/in/shuhan-lu/)- [Medium page](https://medium.com/@lush9516)
 
 
