@@ -19,7 +19,7 @@ conda install package_name
 ```
 ### General Guide
 The followings are descriptions of the several practices that I have done:
-* "101 pandas practice" is my practice and solutions for [101 Pandas Exercises] (https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
+* "101 pandas practice" is my practice and solutions for [101 Pandas Exercises](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
  
 ## Authors
 
