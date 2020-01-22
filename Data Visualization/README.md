@@ -36,4 +36,4 @@ For `seaborn` package, the main use for me is to plot heatmap.
 
 ## Authors
 
-**Han(Shuhan) Lu** - *Initial work* - [LinkedIn page](https://www.linkedin.com/in/shuhan-lu/)
+**Han(Shuhan) Lu** - *Initial work* - [LinkedIn page](https://www.linkedin.com/in/shuhan-lu/)- [Medium page](https://medium.com/@lush9516)
