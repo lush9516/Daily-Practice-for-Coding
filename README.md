@@ -24,14 +24,11 @@ After installing anaconda, you can easily install python packages in terminal.
 ```
 conda install package_name
 ```
+### General guidance
 
-#### Load packages
-```
-import pandas as pd
-import numpy as np
-import matplotlib.pyploy as plt
-import seaborn
-```
+For Data Manipulation, there are practices about rewriting SQL queries in python, data manipulation using pandas and data manipulation using numpy.
+
+For Data Visualization, there are practices about visualization using `matplotlib.pyplt` and `seaborn`.
 
 ## Authors
 
