@@ -12,6 +12,6 @@ For this practice, I mainly use the built-in functions in python so there is no 
 
 ## Authors
 
-**Han(Shuhan) Lu** - *Initial work* - [LinkedIn page](https://www.linkedin.com/in/shuhan-lu/)
+**Han(Shuhan) Lu** - *Initial work* - [LinkedIn page](https://www.linkedin.com/in/shuhan-lu/) - [Medium page](https://medium.com/@lushuhan95)
 
 
