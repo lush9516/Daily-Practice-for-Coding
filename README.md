@@ -30,7 +30,7 @@ For Data Manipulation, there are practices about rewriting SQL queries in python
 
 For Data Visualization, there are practices about visualization using `matplotlib.pyplt` and `seaborn`.
 
-## Authors
+## Author
 
 **Han(Shuhan) Lu** - *Initial work* - [LinkedIn page](https://www.linkedin.com/in/shuhan-lu/) - [Medium page](https://medium.com/@lushuhan95)
 
