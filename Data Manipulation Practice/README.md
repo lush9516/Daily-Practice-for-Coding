@@ -33,7 +33,7 @@ import matplotlib.pyploy as plt
 import seaborn
 ```
 
-## Authors
+## Author
 
 **Han(Shuhan) Lu** - *Initial work* - [LinkedIn page](https://www.linkedin.com/in/shuhan-lu/) - [Medium page](https://medium.com/@lushuhan95)
 
