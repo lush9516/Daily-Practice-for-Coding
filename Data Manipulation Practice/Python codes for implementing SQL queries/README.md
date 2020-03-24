@@ -20,11 +20,10 @@ After installing anaconda, you can easily install python packages in terminal.
 conda install package_name
 ```
 ### General Guide
-First, you can run the codes in "DataBase query" to create the database.
 
 The "database_relationship" picture can show the relationship between different databases.
 
-After creating the database, you can run the codes in "Python code for SQL queries" to practice implementing SQL queries in Python.
+ "Python code for SQL queries" shows the practice for reproducing SQL queries using python codes.
 
 ## Authors
 
