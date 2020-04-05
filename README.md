@@ -7,28 +7,17 @@ This is a list of all the practice:
 * [Data Structure and Algorithm](https://github.com/lush9516/Daily-Practice-for-Coding/tree/master/LeetCode_Algorithm%20and%20Data%20Structure)
 * [Data Visualization](https://github.com/lush9516/Daily-Practice-for-Coding/tree/master/Data%20Visualization) 
 
-## Getting Started
+## Data Manipulation
+This part contains the following contents:
+* Rewtiring SQL queries using Python codes (mainly `pandas` package). Here is the related [blog](https://medium.com/swlh/reproducing-sql-queries-in-python-codes-35d90f716b1a).
+* Data Manipulation using `pandas` and `numpy` packages. Here is the related [blog](https://medium.com/swlh/exhaustive-introduction-to-pandas-in-python-cdfd9d3846f2).
+* Other techniques, such as web scraping, wordcloud, etc.
 
-### Prerequisites
+## Data Visualization
+This part contains my practice on data visualization using `matplotlib` , `seaborn` packages in Python.
 
-For Data Manipulation, `pandas` and `numpy` packages are required.
-
-For Data Visualization, `matplotlib.pyplot` and `seaborn` packages are required.
-
-#### Install packages
-
-Personally, I recommend to use anaconda which is easy to manage the packages.
-* [anaconda free download link](https://www.anaconda.com/distribution/#download-section)
-
-After installing anaconda, you can easily install python packages in terminal. 
-```
-conda install package_name
-```
-### General guidance
-
-For Data Manipulation, there are practices about rewriting SQL queries in python, data manipulation using pandas and data manipulation using numpy.
-
-For Data Visualization, there are practices about visualization using `matplotlib.pyplt` and `seaborn`.
+## Data Structure and Algorithm
+This part contains my practice records on Data Structure and Algorithm using Leetcode questions.
 
 ## Author
 
