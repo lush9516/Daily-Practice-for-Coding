@@ -2,14 +2,9 @@
 
 This is the practice for rewriting SQL queries in Python using packages `pandas` and `numpy`.
 
-Here is the blog explaining this implementation.
-
-## Getting Started
-
-### Prerequisites
+## Prerequisites
 
 For this practice, `pandas`, `numpy` and `sqlite3` packages are required.
-
 
 ## General Guide
 This is the full codes for my blog: [Reproducting SQL Queries in Python Codes](https://medium.com/swlh/reproducing-sql-queries-in-python-codes-35d90f716b1a)
